@@ -1,5 +1,7 @@
 ****
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21462183.svg)](https://doi.org/10.5281/zenodo.21462183)
+
 Data and R code accompanying:
 
 **Impacts of sea level rise on the world's shorebirds**
@@ -15,4 +17,4 @@ Authors: Jennifer M.T. Magel, Scott Wilson, Tara G. Martin
 ****
 
 **DATA**  
-Please see the README file in this folder for a comprehensive description of the contents of each data sheet and definitions for all variables.
+* Please see the README file in this folder for a comprehensive description of the contents of each data sheet and definitions for all variables.
