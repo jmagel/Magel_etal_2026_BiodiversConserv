@@ -1,0 +1,23 @@
+IMPACTS OF SEA LEVEL RISE ON THE WORLD'S SHOREBIRDS [CODE]
+
+Jennifer M.T. Magel [1], Scott Wilson [1,2], and Tara G. Martin [1]
+
+[1] Department of Forest & Conservation Sciences, University of British Columbia, Vancouver, BC, Canada V6T 1Z4
+[2] Wildlife Research Division, Environment and Climate Change Canada, University of Alberta, Edmonton, AB, Canada T6G 2E9
+
+Corresponding authors: Jennifer M.T. Magel (jenn.magel@gmail.com), Scott Wilson (ScottD.Wilson@ec.gc.ca)
+
+------------------------------------
+
+Created: 2025-02-12 | Last updated: 2026-05-01
+
+This folder contains all code (R scripts) accompanying the paper "Impacts of sea level rise on the world's shorebirds". 
+Individual scripts are described in further detail below.
+
+ANALYSIS.R
+This R script contains the necessary code to calculate the basic statistics included in the paper (e.g., mean study length; 
+number of studies for each stage of the annual cycle, species, flyway, etc.).
+
+FIGURES.R
+This R script contains the necessary code to produce Figures 2, 6, and S1. Please note that additional processing was performed 
+in PowerPoint to produce the final version of Fig. 6 (i.e., to add the labels on the top and right side of the figure).
