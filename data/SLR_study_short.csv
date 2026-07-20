@@ -1,0 +1,50 @@
+study_id,pub_year,country,flyway,flyway_code,annual_cycle,impact_coarse
+Galbraith et al. 2002,2002,United States,Pacific Americas,PA.AM,Migration/non-breeding,Habitat
+Galbraith et al. 2002,2002,United States,Atlantic Americas,ATL.AM,Migration/non-breeding,Habitat
+Galbraith et al. 2002,2002,United States,Mississippi Americas,MISS.AM,Migration/non-breeding,Habitat
+Austin and Rehfisch 2003,2003,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Stillman et al. 2005,2005,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Durell et al. 2006,2006,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Fujii 2006,2006,United Kingdom,East Atlantic,E.ATL,Non-breeding,Habitat
+Fujii 2006,2006,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Durell et al. 2007,2007,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Aiello-Lammens et al. 2011,2011,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Aiello-Lammens et al. 2011,2011,United States,Atlantic Americas,ATL.AM,Breeding,Bird
+Chu-Agor et al. 2011,2011,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Convertino et al. 2011,2011,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Convertino et al. 2011,2011,United States,Atlantic Americas,ATL.AM,Breeding,Bird
+Seavey et al. 2011,2011,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+AlRashidi et al. 2012,2012,Saudi Arabia,Black Sea-Mediterranean,BS.MED,Breeding,Habitat
+AlRashidi et al. 2012,2012,Saudi Arabia,West Asian-East African,WA.EA,Breeding,Habitat
+Convertino et al. 2012,2012,United States,Atlantic Americas,ATL.AM,Breeding/non-breeding,Habitat
+Clausen et al. 2013,2013,Denmark,East Atlantic,E.ATL,Breeding,Habitat
+Iwamura et al. 2013,2013,East Asia-Australasia,East Asian-Australasian,EA.A,Full annual cycle,Habitat
+Iwamura et al. 2013,2013,East Asia-Australasia,East Asian-Australasian,EA.A,Full annual cycle,Bird
+Linhoss et al. 2013,2013,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Linhoss et al. 2013,2013,United States,Atlantic Americas,ATL.AM,Breeding,Bird
+Naughton 2013,2013,United States,Pacific Americas,PA.AM,Breeding/migration,Habitat
+Ross 2013,2013,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Sims et al. 2013,2013,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Hollenbeck et al. 2014,2014,United States,Pacific Americas,PA.AM,Resident,Habitat
+Gieder 2015,2015,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Hunter et al. 2015,2015,United States,Atlantic Americas,ATL.AM,Breeding/non-breeding,Habitat
+Nicol et al. 2015,2015,East Asia-Australasia,East Asian-Australasian,EA.A,Full annual cycle,Habitat
+Nicol et al. 2015,2015,East Asia-Australasia,East Asian-Australasian,EA.A,Full annual cycle,Bird
+Ivajnšic et al. 2016,2016,Slovenia,Black Sea-Mediterranean,BS.MED,Breeding,Habitat
+Aiello-Lammens and Akçakaya 2017,2017,United States,Atlantic Americas,ATL.AM,Breeding,Bird
+Bowgen 2017,2017,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Collop 2017,2017,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Nightingale et al. 2018,2018,United Kingdom,East Atlantic,E.ATL,Non-breeding,Bird
+Von Holle et al. 2019,2019,United States,Atlantic Americas,ATL.AM,Breeding/non-breeding,Habitat
+Wikramanayake et al. 2020,2020,Hong Kong,East Asian-Australasian,EA.A,Migration/non-breeding,Habitat
+Klingbeil et al. 2021,2021,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Klingbeil et al. 2021,2021,United States,Atlantic Americas,ATL.AM,Breeding,Bird
+McCarthy 2022,2022,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Zeigler et al. 2022,2022,United States,Atlantic Americas,ATL.AM,Breeding,Habitat
+Harmer 2023,2023,United Kingdom,East Atlantic,E.ATL,Breeding,Habitat
+Laursen et al. 2023,2023,Germany,East Atlantic,E.ATL,Year-round,Bird
+Garcia-Walther et al. 2024,2024,Mexico,Pacific Americas,PA.AM,Non-breeding,Habitat
+Van de Pol et al. 2024,2024,Netherlands,East Atlantic,E.ATL,Breeding,Habitat
+Van de Pol et al. 2024,2024,Netherlands,East Atlantic,E.ATL,Breeding,Bird
+Santos et al. 2025,2025,Brazil,Atlantic Americas,ATL.AM,Non-breeding,Habitat
+Santos et al. 2025,2025,Brazil,Atlantic Americas,ATL.AM,Non-breeding,Bird

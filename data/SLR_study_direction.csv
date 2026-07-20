@@ -1,0 +1,61 @@
+study_id,annual_cycle,impact_coarse,habitat_type,dynamic,change_mean,change_scenario,change_site,change_species,change_metric_fine
+Galbraith et al. 2002,Migration,Habitat,Tidal flat,yes,Negative,mixed,mixed,,
+Galbraith et al. 2002,Non-breeding,Habitat,Tidal flat,yes,Negative,mixed,mixed,,
+Austin and Rehfisch 2003,Non-breeding,Bird,Unspecified,yes,Mixed,mixed,mixed,mixed,mixed
+Stillman et al. 2005,Non-breeding,Bird,Tidal flat,yes,Negative,mixed,,mixed,
+Durell et al. 2006,Non-breeding,Bird,Tidal flat,no,Negative,negative,,negative,
+Fujii 2006,Non-breeding,Habitat,Tidal flat,no,Negative,negative,,,negative
+Fujii 2006,Non-breeding,Bird,Tidal flat,no,Negative,,,,
+Durell et al. 2007,Non-breeding,Bird,Tidal flat,no,Negative,negative,,mixed,
+Convertino et al. 2011,Breeding,Habitat,Beach,yes,Negative,negative,mixed,,
+Convertino et al. 2011,Breeding,Bird,Beach,yes,Negative,negative,,,
+Aiello-Lammens et al. 2011,Breeding,Habitat,Beach,yes,Negative,negative,,,
+Aiello-Lammens et al. 2011,Breeding,Bird,Beach,yes,Negative,negative,,,negative
+Chu-Agor et al. 2011,Breeding,Habitat,Beach,yes,Negative,negative,,,
+Seavey et al. 2011,Breeding,Habitat,Beach,no,Negative,negative,,,
+Seavey et al. 2011,Breeding,Habitat,Beach,yes,Positive,positive,,,
+AlRashidi et al. 2012,Breeding,Habitat,Beach,no,Negative,,,,negative
+Convertino et al. 2012,Breeding,Habitat,Beach,yes,Negative,,,,negative
+Convertino et al. 2012,Non-breeding,Habitat,Beach,yes,Negative,,,negative,negative
+Clausen et al. 2013,Breeding,Habitat,Marsh,no,Negative,negative,negative,,
+Iwamura et al. 2013,Breeding,Habitat,Unspecified,no,Negative,negative,negative,negative,
+Iwamura et al. 2013,Migration,Habitat,Unspecified,no,Negative,negative,negative,negative,
+Iwamura et al. 2013,Non-breeding,Habitat,Unspecified,no,Negative,negative,negative,negative,
+Iwamura et al. 2013,Breeding,Bird,Unspecified,no,Negative,negative,negative,negative,
+Iwamura et al. 2013,Migration,Bird,Unspecified,no,Negative,negative,negative,negative,
+Iwamura et al. 2013,Non-breeding,Bird,Unspecified,no,Negative,negative,negative,negative,
+Linhoss et al. 2013,Breeding,Habitat,Beach,yes,Negative,mixed,,,negative
+Linhoss et al. 2013,Breeding,Bird,Beach,yes,Negative,negative,,,
+Naughton 2013,Migration,Habitat,Tidal flat,yes,Mixed,mixed,mixed,,
+Naughton 2013,Breeding,Habitat,Beach,yes,Negative,negative,mixed,,
+Ross 2013,Non-breeding,Bird,Tidal flat,no,Negative,negative,,,mixed
+Sims et al. 2013,Breeding,Habitat,Beach,no,Negative,negative,mixed,,
+Sims et al. 2013,Breeding,Habitat,Beach,yes,Positive,positive,mixed,,
+Hollenbeck et al. 2014,Resident,Habitat,Rocky,yes,Negative,mixed,,,mixed
+Gieder 2015,Breeding,Habitat,Beach,yes,Positive,positive,,,
+Hunter et al. 2015,Breeding,Habitat,Beach,yes,Negative,,,negative,negative
+Hunter et al. 2015,Non-breeding,Habitat,Unspecified,yes,Positive,,,mixed,positive
+Nicol et al. 2015,Migration,Habitat,Unspecified,no,Negative,negative,negative,negative,
+Nicol et al. 2015,Non-breeding,Habitat,Unspecified,no,Negative,negative,negative,negative,
+Nicol et al. 2015,Breeding,Bird,Unspecified,no,Negative,negative,negative,negative,negative
+Nicol et al. 2015,Migration,Bird,Unspecified,no,Negative,negative,negative,negative,negative
+Nicol et al. 2015,Non-breeding,Bird,Unspecified,no,Negative,negative,negative,negative,negative
+Ivajnsic et al. 2016,Breeding,Habitat,Unspecified,no,Negative,negative,,,
+Aiello-Lammens and Akçakaya 2017,Breeding,Bird,Beach,yes,Negative,,,,
+Bowgen 2017,Non-breeding,Bird,Tidal flat,no,Negative,negative,mixed,mixed,
+Collop 2017,Non-breeding,Bird,Tidal flat,no,Negative,negative,,mixed,mixed
+Nightingale et al. 2018,Non-breeding,Bird,Rocky,no,Negative,negative,,,
+Von Holle et al. 2019,Breeding,Habitat,Unspecified,yes,Negative,,,negative,negative
+Von Holle et al. 2019,Non-breeding,Habitat,Unspecified,yes,Negative,,,,negative
+Wikramanayake et al. 2020,Migration,Habitat,Tidal flat,yes,Negative,negative,,,
+Wikramanayake et al. 2020,Non-breeding,Habitat,Tidal flat,yes,Negative,negative,,,
+Klingbeil et al. 2021,Breeding,Habitat,Marsh,no,Negative,,negative,,
+Klingbeil et al. 2021,Breeding,Bird,Marsh,no,Negative,,,,
+Klingbeil et al. 2021,Breeding,Habitat,Marsh,yes,Negative,,negative,,
+Klingbeil et al. 2021,Breeding,Bird,Marsh,yes,Negative,,,,
+McCarthy 2022,Breeding,Habitat,Beach,yes,Negative,negative,negative,,
+Zeigler et al. 2022,Breeding,Habitat,Beach,yes,Negative,negative,,,
+Harmer 2023,Breeding,Habitat,Marsh,no,Negative,negative,,,
+Garcia-Walther et al. 2024,Non-breeding,Habitat,Unspecified,no,Negative,,mixed,,negative
+Van de Pol et al. 2024,Breeding,Habitat,Marsh,yes,Negative,negative,negative,,
+Van de Pol et al. 2024,Breeding,Bird,Marsh,yes,Negative,negative,negative,,

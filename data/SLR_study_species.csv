@@ -1,0 +1,112 @@
+study_id,annual_cycle,family,species_name,species_code
+Galbraith et al. 2002,Migration,,,
+Galbraith et al. 2002,Non-breeding,,,
+Austin and Rehfisch 2003,Non-breeding,Scolopacidae,Common redshank,CREH
+Austin and Rehfisch 2003,Non-breeding,Scolopacidae,Dunlin,DUNL
+Austin and Rehfisch 2003,Non-breeding,Scolopacidae,Eurasian curlew,EUCU
+Austin and Rehfisch 2003,Non-breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Austin and Rehfisch 2003,Non-breeding,Scolopacidae,Red knot,REKN
+Stillman et al. 2005,Non-breeding,Charadriidae,Black-bellied plover,BBPL
+Stillman et al. 2005,Non-breeding,Scolopacidae,Black-tailed godwit,BLTG
+Stillman et al. 2005,Non-breeding,Scolopacidae,Bar-tailed godwit,BTGO
+Stillman et al. 2005,Non-breeding,Scolopacidae,Common redshank,CREH
+Stillman et al. 2005,Non-breeding,Charadriidae,Common ringed plover,CRPL
+Stillman et al. 2005,Non-breeding,Scolopacidae,Dunlin,DUNL
+Stillman et al. 2005,Non-breeding,Scolopacidae,Eurasian curlew,EUCU
+Stillman et al. 2005,Non-breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Stillman et al. 2005,Non-breeding,Scolopacidae,Red knot,REKN
+Durell et al. 2006,Non-breeding,Scolopacidae,Black-tailed godwit,BLTG
+Durell et al. 2006,Non-breeding,Scolopacidae,Common redshank,CREH
+Durell et al. 2006,Non-breeding,Scolopacidae,Dunlin,DUNL
+Durell et al. 2006,Non-breeding,Scolopacidae,Eurasian curlew,EUCU
+Durell et al. 2006,Non-breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Fujii 2006,Non-breeding,,,
+Durell et al. 2007,Non-breeding,Charadriidae,Black-bellied plover,BBPL
+Durell et al. 2007,Non-breeding,Scolopacidae,Black-tailed godwit,BLTG
+Durell et al. 2007,Non-breeding,Scolopacidae,Bar-tailed godwit,BTGO
+Durell et al. 2007,Non-breeding,Scolopacidae,Dunlin,DUNL
+Durell et al. 2007,Non-breeding,Scolopacidae,Eurasian curlew,EUCU
+Durell et al. 2007,Non-breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Aiello-Lammens et al. 2011,Breeding,Charadriidae,Snowy plover,SNPL
+Chu-Agor et al. 2011,Breeding,Charadriidae,Piping plover,PIPL
+Chu-Agor et al. 2011,Breeding,Charadriidae,Snowy plover,SNPL
+Convertino et al. 2011,Breeding,Charadriidae,Snowy plover,SNPL
+Seavey et al. 2011,Breeding,Charadriidae,Piping plover,PIPL
+AlRashidi et al. 2012,Breeding,Charadriidae,Kentish plover,KEPL
+Convertino et al. 2012,Non-breeding,Charadriidae,Piping plover,PIPL
+Convertino et al. 2012,Non-breeding,Scolopacidae,Red knot,REKN
+Convertino et al. 2012,Breeding,Charadriidae,Snowy plover,SNPL
+Clausen et al. 2013,Breeding,Scolopacidae,Black-tailed godwit,BLTG
+Clausen et al. 2013,Breeding,Scolopacidae,Dunlin,DUNL
+Clausen et al. 2013,Breeding,Scolopacidae,Ruff,RUFF
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Bar-tailed godwit,BTGO
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Curlew sandpiper,CUSA
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Far Eastern curlew,FECU
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Great knot,GRKN
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Grey-tailed tattler,GTTA
+Iwamura et al. 2013,Full annual cycle,Charadriidae,Siberian sand plover,SISP
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Red knot,REKN
+Iwamura et al. 2013,Full annual cycle,Scolopacidae,Terek sandpiper,TESA
+Linhoss et al. 2013,Breeding,Charadriidae,Snowy plover,SNPL
+Naughton 2013,Breeding,,,
+Naughton 2013,Migration,,,
+Ross 2013,Non-breeding,Recurvirostridae,Pied avocet,PIAV
+Sims et al. 2013,Breeding,Charadriidae,Piping plover,PIPL
+Hollenbeck et al. 2014,Resident,Haematopodidae,Black oystercatcher,BLOY
+Gieder 2015,Breeding,Charadriidae,Piping plover,PIPL
+Hunter et al. 2015,Breeding,Haematopodidae,American oystercatcher,AMOY
+Hunter et al. 2015,Non-breeding,Charadriidae,Piping plover,PIPL
+Hunter et al. 2015,Non-breeding,Scolopacidae,Red knot,REKN
+Hunter et al. 2015,Non-breeding,Scolopacidae,Ruddy turnstone,RUTU
+Hunter et al. 2015,Non-breeding,Scolopacidae,Sanderling,SAND
+Hunter et al. 2015,Non-breeding,Scolopacidae,Whimbrel,WHIM
+Hunter et al. 2015,Breeding,Charadriidae,Wilson's plover,WIPL
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Bar-tailed godwit,BTGO
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Curlew sandpiper,CUSA
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Far Eastern curlew,FECU
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Great knot,GRKN
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Grey-tailed tattler,GTTA
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Red knot,REKN
+Nicol et al. 2015,Full annual cycle,Charadriidae,Siberian sand plover,SISP
+Nicol et al. 2015,Full annual cycle,Scolopacidae,Terek sandpiper,TESA
+Ivajnšic et al. 2016,Breeding,Charadriidae,Kentish plover,KEPL
+Aiello-Lammens and Akçakaya 2017,Breeding,Charadriidae,Snowy plover,SNPL
+Bowgen 2017,Non-breeding,Charadriidae,Black-bellied plover,BBPL
+Bowgen 2017,Non-breeding,Scolopacidae,Black-tailed godwit,BLTG
+Bowgen 2017,Non-breeding,Scolopacidae,Bar-tailed godwit,BTGO
+Bowgen 2017,Non-breeding,Scolopacidae,Common redshank,CREH
+Bowgen 2017,Non-breeding,Charadriidae,Common ringed plover,CRPL
+Bowgen 2017,Non-breeding,Scolopacidae,Dunlin,DUNL
+Bowgen 2017,Non-breeding,Scolopacidae,Eurasian curlew,EUCU
+Bowgen 2017,Non-breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Bowgen 2017,Non-breeding,Scolopacidae,Red knot,REKN
+Bowgen 2017,Non-breeding,Scolopacidae,Ruddy turnstone,RUTU
+Bowgen 2017,Non-breeding,Scolopacidae,Sanderling,SAND
+Collop 2017,Non-breeding,Charadriidae,Black-bellied plover,BBPL
+Collop 2017,Non-breeding,Scolopacidae,Black-tailed godwit,BLTG
+Collop 2017,Non-breeding,Scolopacidae,Bar-tailed godwit,BTGO
+Collop 2017,Non-breeding,Scolopacidae,Common redshank,CREH
+Collop 2017,Non-breeding,Scolopacidae,Dunlin,DUNL
+Collop 2017,Non-breeding,Scolopacidae,Eurasian curlew,EUCU
+Collop 2017,Non-breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Nightingale et al. 2018,Non-breeding,Scolopacidae,Purple sandpiper,PUSA
+Von Holle et al. 2019,Breeding,Haematopodidae,American oystercatcher,AMOY
+Von Holle et al. 2019,Non-breeding,Charadriidae,Piping plover,PIPL
+Von Holle et al. 2019,Breeding,Charadriidae,Wilson's plover,WIPL
+Wikramanayake et al. 2020,Migration,,,
+Wikramanayake et al. 2020,Non-breeding,,,
+Klingbeil et al. 2021,Breeding,Scolopacidae,Willet,WILL
+McCarthy 2022,Breeding,Haematopodidae,American oystercatcher,AMOY
+McCarthy 2022,Breeding,Charadriidae,Piping plover,PIPL
+Zeigler et al. 2022,Breeding,Charadriidae,Piping plover,PIPL
+Harmer 2023,Breeding,Scolopacidae,Common redshank,CREH
+Laursen et al. 2023,Migration,Charadriidae,Black-bellied plover,BBPL
+Laursen et al. 2023,Migration,Scolopacidae,Bar-tailed godwit,BTGO
+Laursen et al. 2023,Year-round,Scolopacidae,Common redshank,CREH
+Laursen et al. 2023,Migration,Scolopacidae,Dunlin,DUNL
+Laursen et al. 2023,Year-round,Haematopodidae,Eurasian oystercatcher,EUOY
+Laursen et al. 2023,Year-round,Scolopacidae,Eurasian curlew,EUCU
+Laursen et al. 2023,Breeding,Recurvirostridae,Pied avocet,PIAV
+Garcia-Walther et al. 2024,Non-breeding,Scolopacidae,Red knot,REKN
+Van de Pol et al. 2024,Breeding,Haematopodidae,Eurasian oystercatcher,EUOY
+Santos et al. 2025,Non-breeding,Scolopacidae,Semipalmated sandpiper,SESA

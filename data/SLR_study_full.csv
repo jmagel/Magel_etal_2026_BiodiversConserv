@@ -1,0 +1,98 @@
+study_id,pub_year,start_year,end_year,study_length,country,site,flyway,flyway_code,annual_cycle,impact_coarse,impact_fine
+Galbraith et al. 2002,2002,1990,2100,110,United States,"Willapa Bay, Humboldt Bay, San Francisco Bay",Pacific Americas,PA.AM,Migration,Habitat,Habitat extent
+Galbraith et al. 2002,2002,1990,2100,110,United States,"Willapa Bay, Humboldt Bay, San Francisco Bay",Pacific Americas,PA.AM,Non-breeding,Habitat,Habitat extent
+Galbraith et al. 2002,2002,1990,2100,110,United States,Delaware Bay,Atlantic Americas,ATL.AM,Migration,Habitat,Habitat extent
+Galbraith et al. 2002,2002,1990,2100,110,United States,Delaware Bay,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat extent
+Galbraith et al. 2002,2002,1990,2100,110,United States,Bolivar Flats,Mississippi Americas,MISS.AM,Migration,Habitat,Habitat extent
+Galbraith et al. 2002,2002,1990,2100,110,United States,Bolivar Flats,Mississippi Americas,MISS.AM,Non-breeding,Habitat,Habitat extent
+Austin and Rehfisch 2003,2003,1998,2055,57,United Kingdom,Deben and Duddon estuaries,East Atlantic,E.ATL,Non-breeding,Bird,Site-level abundance
+Austin and Rehfisch 2003,2003,1998,2055,57,United Kingdom,Deben and Duddon estuaries,East Atlantic,E.ATL,Non-breeding,Bird,Site-level density
+Stillman et al. 2005,2005,,,,United Kingdom,Humber estuary,East Atlantic,E.ATL,Non-breeding,Bird,Overwinter survival
+Durell et al. 2006,2006,,,,United Kingdom,Poole Harbour,East Atlantic,E.ATL,Non-breeding,Bird,Overwinter survival
+Fujii 2006,2006,,,,United Kingdom,Humber estuary,East Atlantic,E.ATL,Non-breeding,Habitat,Habitat extent
+Fujii 2006,2006,,,,United Kingdom,Humber estuary,East Atlantic,E.ATL,Non-breeding,Habitat,Prey biomass
+Fujii 2006,2006,,,,United Kingdom,Humber estuary,East Atlantic,E.ATL,Non-breeding,Bird,Site-level abundance
+Durell et al. 2007,2007,,,,United Kingdom,Exe estuary,East Atlantic,E.ATL,Non-breeding,Bird,Overwinter survival
+Aiello-Lammens et al. 2011,2011,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Aiello-Lammens et al. 2011,2011,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Carrying capacity
+Aiello-Lammens et al. 2011,2011,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Bird,Extinction risk
+Aiello-Lammens et al. 2011,2011,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Bird,Risk of decline to 20 individuals
+Aiello-Lammens et al. 2011,2011,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Bird,Expected minimum abundance
+Chu-Agor et al. 2011,2011,2001,2100,99,United States,"Elgin Air Force Base, Florida",Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Convertino et al. 2011,2011,2010,2100,90,United States,"Elgin Air Force Base, Tyndall Air Force Base, Florida Gulf Coast",Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Convertino et al. 2011,2011,2010,2100,90,United States,"Elgin Air Force Base, Tyndall Air Force Base, Florida Gulf Coast",Atlantic Americas,ATL.AM,Breeding,Habitat,Carrying capacity
+Convertino et al. 2011,2011,2010,2100,90,United States,"Elgin Air Force Base, Tyndall Air Force Base, Florida Gulf Coast",Atlantic Americas,ATL.AM,Breeding,Bird,Metapopulation size
+Seavey et al. 2011,2011,2005,2095,90,United States,Long Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Seavey et al. 2011,2011,2005,2095,90,United States,Long Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent threatened by storm flooding
+AlRashidi et al. 2012,2012,,,,Saudi Arabia,Farasan Islands,Black Sea-Mediterranean,BS.MED,Breeding,Habitat,Habitat extent
+AlRashidi et al. 2012,2012,,,,Saudi Arabia,Farasan Islands,West Asian-East African,WA.EA,Breeding,Habitat,Habitat extent
+Convertino et al. 2012,2012,2006,2100,94,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat extent
+Convertino et al. 2012,2012,2006,2100,94,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Convertino et al. 2012,2012,2006,2100,94,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat fragmentation
+Convertino et al. 2012,2012,2006,2100,94,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat fragmentation
+Clausen et al. 2013,2013,2007,2095,88,Denmark,"Wadden Sea, Limfjord, Baltic Sea",East Atlantic,E.ATL,Breeding,Habitat,Habitat extent
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Breeding,Habitat,Habitat extent
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Migration,Habitat,Habitat extent
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Non-breeding,Habitat,Habitat extent
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Full annual cycle,Habitat,Habitat extent
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Breeding,Bird,Population flow
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Migration,Bird,Population flow
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Non-breeding,Bird,Population flow
+Iwamura et al. 2013,2013,,,,East Asia-Australasia,"Alaska, Russia, Japan, Yellow Sea, East China Sea, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Full annual cycle,Bird,Population flow
+Linhoss et al. 2013,2013,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Linhoss et al. 2013,2013,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Carrying capacity
+Linhoss et al. 2013,2013,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Bird,Extinction risk
+Linhoss et al. 2013,2013,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Bird,Percent decline in population
+Naughton 2013,2013,2002,2100,98,United States,"San Diego County, San Diego Bay, Tijuana estuary",Pacific Americas,PA.AM,Breeding,Habitat,Habitat extent
+Naughton 2013,2013,2002,2100,98,United States,"San Diego County, San Diego Bay, Tijuana estuary",Pacific Americas,PA.AM,Migration,Habitat,Habitat extent
+Ross 2013,2013,2000,2095,95,United Kingdom,Poole Harbour,East Atlantic,E.ATL,Non-breeding,Bird,Overwinter survival
+Ross 2013,2013,2000,2095,95,United Kingdom,Poole Harbour,East Atlantic,E.ATL,Non-breeding,Bird,Mean energy stores
+Sims et al. 2013,2013,2011,2100,89,United States,Rhode Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Hollenbeck et al. 2014,2014,2011,2100,89,United States,"Rabbit Rock, Oregon",Pacific Americas,PA.AM,Resident,Habitat,Habitat extent
+Gieder 2015,2015,2008,2100,92,United States,"Assateague Island, Maryland",Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Gieder 2015,2015,2008,2100,92,United States,"Assateague Island, Maryland",Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat suitability
+Hunter et al. 2015,2015,2007,2100,93,United States,Georgia coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Hunter et al. 2015,2015,2007,2100,93,United States,Georgia coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat patch size
+Hunter et al. 2015,2015,2007,2100,93,United States,Georgia coast,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat permanence
+Hunter et al. 2015,2015,2007,2100,93,United States,Georgia coast,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat extent
+Hunter et al. 2015,2015,2007,2100,93,United States,Georgia coast,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat patch size
+Hunter et al. 2015,2015,2007,2100,93,United States,Georgia coast,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat permanence
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Migration,Habitat,Habitat extent
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Non-breeding,Habitat,Habitat extent
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Breeding,Bird,Population flow
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Migration,Bird,Population flow
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Non-breeding,Bird,Population flow
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Full annual cycle,Bird,Population flow
+Nicol et al. 2015,2015,,,30,East Asia-Australasia,"Russia, North Korea, South Korea, China, Yellow Sea, Sea of Japan, Malay Archipelago, Southeast Asia, Australia, New Zealand",East Asian-Australasian,EA.A,Breeding,Bird,Breeding population size
+Ivajnšic et al. 2016,2016,2010,2100,90,Slovenia,Secovlje Salina Nature Park,Black Sea-Mediterranean,BS.MED,Breeding,Habitat,Habitat extent
+Aiello-Lammens and Akçakaya 2017,2017,2010,2100,90,United States,Florida Gulf Coast,Atlantic Americas,ATL.AM,Breeding,Bird,Probability of decline to 50 individuals
+Bowgen 2017,2017,2012,2095,83,United Kingdom,"Exe, Humber, Severn estuaries; Poole Harbour; Southampton Water",East Atlantic,E.ATL,Non-breeding,Bird,Overwinter survival
+Bowgen 2017,2017,2012,2095,83,United Kingdom,"Exe, Humber, Severn estuaries; Poole Harbour; Southampton Water",East Atlantic,E.ATL,Non-breeding,Bird,Dietary composition
+Bowgen 2017,2017,2012,2095,83,United Kingdom,"Exe, Humber, Severn estuaries; Poole Harbour; Southampton Water",East Atlantic,E.ATL,Non-breeding,Bird,Habitat use
+Collop 2017,2017,2010,2060,50,United Kingdom,Poole Harbour,East Atlantic,E.ATL,Non-breeding,Bird,Overwinter survival
+Collop 2017,2017,2010,2060,50,United Kingdom,Poole Harbour,East Atlantic,E.ATL,Non-breeding,Bird,Foraging time
+Collop 2017,2017,2010,2060,50,United Kingdom,Poole Harbour,East Atlantic,E.ATL,Non-breeding,Bird,Mean energy stores
+Nightingale et al. 2018,2018,2017,2100,83,United Kingdom,"Southsea Castle, Portsmouth",East Atlantic,E.ATL,Non-breeding,Bird,Foraging time
+Von Holle et al. 2019,2019,2000,2030,30,United States,South Atlantic Bight,Atlantic Americas,ATL.AM,Breeding,Habitat,Vulnerability to erosion
+Von Holle et al. 2019,2019,2000,2030,30,United States,South Atlantic Bight,Atlantic Americas,ATL.AM,Non-breeding,Habitat,Vulnerability to erosion
+Wikramanayake et al. 2020,2020,2019,2100,81,Hong Kong,Mai Po Inner Deep Bay,East Asian-Australasian,EA.A,Migration,Habitat,Habitat extent
+Wikramanayake et al. 2020,2020,2019,2100,81,Hong Kong,Mai Po Inner Deep Bay,East Asian-Australasian,EA.A,Non-breeding,Habitat,Habitat extent
+Klingbeil et al. 2021,2021,2010,2050,40,United States,Northeastern USA,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Klingbeil et al. 2021,2021,2010,2050,40,United States,Northeastern USA,Atlantic Americas,ATL.AM,Breeding,Bird,Population size
+McCarthy 2022,2022,2016,2100,84,United States,Nantucket Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Zeigler et al. 2022,2022,2015,2050,35,United States,Fire Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Geomorphology
+Zeigler et al. 2022,2022,2015,2050,35,United States,Fire Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Likelihood of overwash
+Zeigler et al. 2022,2022,2015,2050,35,United States,Fire Island,Atlantic Americas,ATL.AM,Breeding,Habitat,Habitat extent
+Harmer 2023,2023,2017,2100,83,United Kingdom,Ribble Estuary,East Atlantic,E.ATL,Breeding,Habitat,Habitat extent
+Laursen et al. 2023,2023,1987,2019,32,Germany,Wadden Sea,East Atlantic,E.ATL,Non-breeding,Bird,Site-level abundance
+Laursen et al. 2023,2023,1987,2019,32,Germany,Wadden Sea,East Atlantic,E.ATL,Migration,Bird,Site-level abundance
+Laursen et al. 2023,2023,1987,2019,32,Germany,Wadden Sea,East Atlantic,E.ATL,Breeding,Bird,Site-level abundance
+Garcia-Walther et al. 2024,2024,2016,2050,34,Mexico,Northwest Mexico,Pacific Americas,PA.AM,Non-breeding,Habitat,Habitat extent
+Garcia-Walther et al. 2024,2024,2016,2050,34,Mexico,Northwest Mexico,Pacific Americas,PA.AM,Non-breeding,Habitat,Habitat suitability
+Van de Pol et al. 2024,2024,1986,2125,139,Netherlands,Wadden Sea,East Atlantic,E.ATL,Breeding,Habitat,Probability of nest flooding
+Van de Pol et al. 2024,2024,1986,2125,139,Netherlands,Wadden Sea,East Atlantic,E.ATL,Breeding,Habitat,Habitat extent
+Van de Pol et al. 2024,2024,1986,2125,139,Netherlands,Wadden Sea,East Atlantic,E.ATL,Breeding,Bird,Population growth rate
+Van de Pol et al. 2024,2024,1986,2125,139,Netherlands,Wadden Sea,East Atlantic,E.ATL,Breeding,Bird,Percent decline in population
+Santos et al. 2025,2025,1987,2018,31,Brazil,Brazilian Amazon (Amapá),Atlantic Americas,ATL.AM,Non-breeding,Habitat,Habitat extent
+Santos et al. 2025,2025,1987,2018,31,Brazil,Brazilian Amazon (Amapá),Atlantic Americas,ATL.AM,Non-breeding,Habitat,Prey density
+Santos et al. 2025,2025,1987,2018,31,Brazil,Brazilian Amazon (Amapá),Atlantic Americas,ATL.AM,Non-breeding,Bird,Site-level abundance
