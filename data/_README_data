@@ -1,0 +1,82 @@
+IMPACTS OF SEA LEVEL RISE ON THE WORLD'S SHOREBIRDS [DATA]
+
+Jennifer M.T. Magel [1], Scott Wilson [1,2], and Tara G. Martin [1]
+
+[1] Department of Forest & Conservation Sciences, University of British Columbia, Vancouver, BC, Canada V6T 1Z4
+[2] Wildlife Research Division, Environment and Climate Change Canada, University of Alberta, Edmonton, AB, Canada T6G 2E9
+
+Corresponding authors: Jennifer M.T. Magel (jenn.magel@gmail.com), Scott Wilson (ScottD.Wilson@ec.gc.ca)
+
+------------------------------------
+
+Created: 2025-02-07 | Last updated: 2026-07-20
+
+This folder contains all data accompanying the paper "Impacts of sea level rise on the world's shorebirds". Individual datasheets are described in further detail below.
+
+
+SUPPLEMENTARY_DATA_1
+This Excel spreadsheet contains data for all studies located through the literature search (n = 190), including exclusion criteria for those studies that were excluded 
+from the final review (n = 153) and a summary of extracted data for those studies that were included in the final review (n = 37). Please see the README tab in the Excel 
+file for further explanation of the individual data sheets and variable definitions.
+
+
+SLR_STUDY_FULL
+This comprehensive .csv file lists all the location and shorebird-related metrics examined by each study. Variables are defined as follows:
+
+study_id	Author and year of publication for the study
+pub_year	Year in which the study was published
+start_year	Start year for the study (e.g., starting year for SLR simulations)
+end_year	End year for the study (e.g., endpoint for SLR simulations)
+study_length	Length of the study in years, calculated as the end year minus the start year
+country		Country in which the study took place
+site		Specific site(s) or region(s) at which the study took place
+flyway		Shorebird flyway along which the study site was located
+flyway_code	Author-created code assigned to each shorebird flyway for the purpose of data visualization
+annual_cycle	Stage of the annual cycle to which the study pertains (breeding, migration, non-breeding, resident, full annual cycle). For the purpose of this data sheet,
+			each stage of the annual cycle examined by a particular study was listed in a separate row (e.g., if the site examined in a study was described 
+			as comprising both breeding and stopover habitat, the study was given one entry for 'breeding' and a separate entry for 'migration').
+impact_coarse	Whether the study examined impacts to shorebird habitat (habitat) or shorebird individuals/populations (bird)
+impact_fine	Specific impact(s) to shorebird habitat and/or populations examined in the study
+
+
+SLR_STUDY_SHORT
+This .csv file is an abbreviated version of SLR_STUDY_FULL.csv that includes only the metrics necessary to create Fig. 2a,b,d and Fig. S1. Variables are defined as follows:
+
+study_id	Author and year of publication for the study
+pub_year	Year in which the study was published
+country		Country in which the study took place
+flyway		Shorebird flyway along which the study site was located
+flyway_code	Author-created code assigned to each shorebird flyway for the purpose of data visualization
+annual_cycle	Stage of the annual cycle to which the study pertains (breeding, migration, non-breeding, year-round resident, full annual cycle). For the purpose of 
+			this figure, each study was assigned to a single category. As such, some studies have been labelled using a combination of multiple categories
+			(e.g., breeding/migration, migration/non-breeding). 
+impact_coarse	Whether the study examined impacts to shorebird habitat (habitat) or shorebird individuals/populations (bird)
+
+
+SLR_STUDY_SPECIES
+This .csv file lists the species examined in each individual study included in the literature review (used to create Fig. 2c). Variables are defined as follows:
+
+study_id	Author and year of publication for the study
+annual_cycle	Stage of the annual cycle to which the study pertains (breeding, migration, non-breeding, year-round, resident, full annual cycle)
+family		Scientific family to which each shorebird species belongs (Charadriidae, Haematopodidae, Recurvirostridae, Scolopacidae)
+species_name	Common name for each shorebird species (from Birds of the World)
+species_code	Four-letter alpha code for each shorebird species (from the Institute for Bird Populations)
+
+
+SLR_STUDY_DIRECTION
+This .csv file lists the habitat type and direction of SLR impact for each individual study included in the literature review (used to create Fig. 6). Variables are defined as follows:
+
+study_id		Author and year of publication for the study
+annual_cycle		Stage of the annual cycle to which the study pertains (breeding, migration, non-breeding, resident). For the purpose of this figure, studies that examined 
+				multiple stages of the annual cycle (e.g., full annual cycle studies) were given separate entries for each individual stage of the annual cycle (i.e.,
+				one entry for 'breeding,' one entry for 'migration,' and one entry for 'non-breeding').
+impact_coarse		Whether the study examined impacts to shorebird habitat (habitat) or shorebird individuals/populations (bird)
+habitat_type		Type of shorebird habitat examined in the study (beach, marsh, rocky, tidal flat, unspecified)
+dynamic			Whether or not the study employed a 'dynamic' modelling approach to account for possible shifts in habitat with future SLR (no, yes)
+change_mean		Mean direction of SLR impact for each study (mixed, negative, positive)
+change_scenario		Mean direction of SLR impact for each SLR scenario examined in the study, averaged across all other metrics (mixed, negative, positive)
+change_site		Mean direction of SLR impact for each site examined in the study, averaged across all other metrics (mixed, negative, positive)
+change_species		Mean direction of SLR impact for each species examined in the study, averaged across all other metrics (mixed, negative, positive)
+change_metric_fine	Mean direction of SLR impact for each fine-scale metric examined in the study, averaged across all other metrics (mixed, negative, positive)
+
+For further explanation of how directions of impact were determined, please see the Supplementary Methods.
